@@ -29,3 +29,23 @@
     background-color: azure;
     color: black;
 }
+.header-image{
+    height: 100vh;
+    background-image: url(./../image/studyofficewritingresearch.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.header-image h1{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: 1px 1px 8px 8px rgb(53, 53, 53);
+    
+
+}
